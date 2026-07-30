@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace MaterialsEngineeringCorrosionEngineeringTheoremCanonicalLaneLean
+
+end MaterialsEngineeringCorrosionEngineeringTheoremCanonicalLaneLean
+end HautevilleHouse
